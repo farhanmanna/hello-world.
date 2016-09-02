@@ -1,2 +1,4 @@
 # hello-world.
-This is my first project in github
+My name is farhan 
+This is my first project on github
+I am very excited to store a code on github
